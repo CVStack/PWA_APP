@@ -3,7 +3,7 @@
 ## Photo With AI: AI and Server Part
 Neural Image Assement Model과 Human Pose Evaluation Model을 사용 가능한 Flask Server
 
-### 사용법
+# 사용법
 1. Colab에서 run_FlaskServer.ipynb 파일을 연다.
 2. 실행시킨 후 Server상에서 제공하는 URL을 Copy한다.
 ![image](https://user-images.githubusercontent.com/38209962/107195805-2d415780-6a35-11eb-8750-7c17fd26b900.png)
@@ -12,7 +12,7 @@ Neural Image Assement Model과 Human Pose Evaluation Model을 사용 가능한 F
 ![image](https://user-images.githubusercontent.com/38209962/107196040-72fe2000-6a35-11eb-8b1f-8bee5e3161d7.png)
 
 
-### 기능
+# 기능
 ## 1. 배경 평가
 다수의 이미지를 보내면 NIMA가 평가한 후 제일 Score가 좋은 이미지의 Index를 Return한다.
 ![image](https://user-images.githubusercontent.com/38209962/107196513-0cc5cd00-6a36-11eb-8a88-e2952b1f83b7.png)
